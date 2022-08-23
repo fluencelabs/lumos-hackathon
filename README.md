@@ -27,7 +27,7 @@ Fluence is sponsoring the following named bounties:
 
 ### Track: Operation Sustainability
 
-### Track: #BUIDL the PIllars of Governance
+### Track: #BUIDL the Pillars of Governance
 
 
 ## Hacking On Fluence
