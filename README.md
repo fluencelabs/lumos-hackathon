@@ -11,23 +11,7 @@ The control flow of service execution is abstracted by Aqua, Fluence's purpose-b
 
 ## Hacking With Fluence
 
-Fluence is sponsoring the following named bounties:
-
-**There are [seven tracks](https://www.hack.lumoslabs.co/#tracks) and we got USDC 5,000**
-
-### Track: Can you DAO it
-
-### Track: DeFi the odds
-
-### Track: Entertainment Central
-
-### Track: Keep calm and NFT-ise it!
-
-### Track: Upgrade the #BUIDLer's Toolbox
-
-### Track: Operation Sustainability
-
-### Track: #BUIDL the Pillars of Governance
+Fluence is sponsoring the [Upgrade the #BUIDLer's Toolbox](https://www.hack.lumoslabs.co/builders-toolbox) track with a USDC 3,500 and USDC 1,500 price for the best tooling, API, SDK, services or patterns that makes it easier for Web3 devs to build with Fluence and Aqua. The easiest way to get started is to giswing by the [developers docs](https://doc.fluence.dev/docs/) and then build a small Fluence project or try one of the [examples](https://github.com/fluencelabs/examples), identify tooling deficits and kick-off your hackathon project.
 
 
 ## Hacking On Fluence
