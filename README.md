@@ -11,7 +11,9 @@ The control flow of service execution is abstracted by Aqua, Fluence's purpose-b
 
 ## Hacking With Fluence
 
-Fluence is sponsoring the [Upgrade the #BUIDLer's Toolbox](https://www.hack.lumoslabs.co/builders-toolbox) track with a USDC 3,500 and USDC 1,500 price for the best tooling, API, SDK, services or patterns that makes it easier for Web3 devs to build with Fluence and Aqua. The easiest way to get started is to giswing by the [developers docs](https://doc.fluence.dev/docs/) and then build a small Fluence project or try one of the [examples](https://github.com/fluencelabs/examples), identify tooling deficits and kick-off your hackathon project.
+Fluence is sponsoring the [Upgrade the #BUIDLer's Toolbox](https://www.hack.lumoslabs.co/builders-toolbox) track with a USDC 3,500 and USDC 1,500 price for the best Web3 tooling, API, SDK, services, or patterns built with Fluence and Aqua that makes it easier for Web3 devs to build with Fluence and Aqua. The easiest way to get started is to swing by the [developers docs](https://doc.fluence.dev/docs/) and then build a small Fluence project or try one of the [examples](https://github.com/fluencelabs/examples), identify tooling deficits and kick-off your hackathon project.
+
+“Web3 tooling, API, SDK, services, or patterns built with Fluence and Aqua
 
 
 ## Hacking On Fluence
