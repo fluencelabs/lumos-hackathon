@@ -20,7 +20,7 @@ For a quick overview, see our [Hacking On Fluence](https://fluencenetwork.notion
 
 ## Rules
 
-TBD
+See Lumos Labs hackathon [FAQ](https://hack.lumoslabs.co/#faq)
 
 ## Resources
 
